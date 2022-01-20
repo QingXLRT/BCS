@@ -1,0 +1,41 @@
+OPL_ audit file created
+Ballot 1 was given to Pike of party D
+Ballot 2 was given to Pike of party D
+Ballot 3 was given to  Foster of party D
+Ballot 4 was given to  Jones of party R
+Ballot 5 was given to Smith of party I
+Ballot 6 was given to  Borg of party R
+Ballot 7 was given to  Borg of party R
+Ballot 8 was given to Pike of party D
+Ballot 9 was given to  Foster of party D
+Given 9 ballots and 3 seats available, the quota is 3
+Begin first round of seat allocation to parties
+The D party won 1 seats given their 5 votes. The remainder of votes is : 2.0
+The R party won 1 seats given their 3 votes. The remainder of votes is : 0.0
+The I party won 0 seats given their 1 votes. The remainder of votes is : 1.0
+2 have been distributed so far. Begin second round of seat allocation to parties
+The D party won 2 seats in total
+The candidates and their votes for the D party: 
+Pike, 3 votes
+ Foster, 2 votes
+Giving out seat number 1
+Giving out seat number 2
+Pike won a seat with their 3 votes
+Giving out seat number 1
+ Foster won a seat with their 2 votes
+Winners of the D party: Pike,  Foster, 
+ The candidates and their votes for the R party: 
+Deutsch, 0 votes
+ Borg, 2 votes
+ Jones, 1 votes
+Giving out seat number 1
+A coin toss determines priority between Deutsch and Deutsch
+The coin toss prioritizes Deutsch
+Giving out seat number 2
+Giving out seat number 3
+ Borg won a seat with their 2 votes
+Winners of the R party:  Borg, 
+ The candidates and their votes for the I party: 
+Smith, 1 votes
+Winners of the I party: 
+ 

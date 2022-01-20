@@ -1,0 +1,27 @@
+Here lies the results of the OPL election
+The number of candidates in this election was 9
+The number of ballots in this election was 18
+The final party and individual candidate vote counts are as follows:
+
+ The D party: 6 total votes
+Volze, 3 votes
+Foster, 1 votes
+Pike, 2 votes
+
+ The I party: 2 total votes
+Moll, 2 votes
+
+ The G party: 4 total votes
+Wartenberg, 3 votes
+Morey, 1 votes
+
+ The R party: 6 total votes
+Berg, 3 votes
+McClerg, 2 votes
+Grolnie, 1 votes
+
+And the candidates who won seats in this Open Party Listing election are:
+Winners of the D party: Volze, 
+Winners of the I party: 
+Winners of the G party: Wartenberg, 
+Winners of the R party: Berg, McClerg, 

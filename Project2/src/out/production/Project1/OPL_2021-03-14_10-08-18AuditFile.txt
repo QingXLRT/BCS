@@ -1,0 +1,63 @@
+OPL_ audit file created
+Ballot 1 was given to Volze of party D
+Ballot 2 was given to Berg of party R
+Ballot 3 was given to Berg of party R
+Ballot 4 was given to Morey of party G
+Ballot 5 was given to Wartenberg of party G
+Ballot 6 was given to Moll of party I
+Ballot 7 was given to Pike of party D
+Ballot 8 was given to Berg of party R
+Ballot 9 was given to Moll of party I
+Ballot 10 was given to Volze of party D
+Ballot 11 was given to Foster of party D
+Ballot 12 was given to McClerg of party R
+Ballot 13 was given to Pike of party D
+Ballot 14 was given to Wartenberg of party G
+Ballot 15 was given to Volze of party D
+Ballot 16 was given to Grolnie of party R
+Ballot 17 was given to McClerg of party R
+Ballot 18 was given to Wartenberg of party G
+Given 18 ballots and 4 seats available, the quota is 4
+Begin first round of seat allocation to parties
+The D party won 1 seats given their 6 votes. The remainder of votes is : 2.0
+The I party won 0 seats given their 2 votes. The remainder of votes is : 2.0
+The G party won 1 seats given their 4 votes. The remainder of votes is : 0.0
+The R party won 1 seats given their 6 votes. The remainder of votes is : 2.0
+3 have been distributed so far. Begin second round of seat allocation to parties
+A coin toss determines priority between I and D
+The coin toss prioritizes D
+A coin toss determines priority between R and D
+The coin toss prioritizes R
+The R party won 2 seats in total
+The candidates and their votes for the D party: 
+Volze, 3 votes
+Foster, 1 votes
+Pike, 2 votes
+Giving out seat number 1
+Giving out seat number 2
+Giving out seat number 3
+Volze won a seat with their 3 votes
+Winners of the D party: Volze, 
+ The candidates and their votes for the I party: 
+Moll, 2 votes
+Winners of the I party: 
+ The candidates and their votes for the G party: 
+Wartenberg, 3 votes
+Morey, 1 votes
+Giving out seat number 1
+Giving out seat number 2
+Wartenberg won a seat with their 3 votes
+Winners of the G party: Wartenberg, 
+ The candidates and their votes for the R party: 
+Berg, 3 votes
+McClerg, 2 votes
+Grolnie, 1 votes
+Giving out seat number 1
+Giving out seat number 2
+Giving out seat number 3
+Berg won a seat with their 3 votes
+Giving out seat number 1
+Giving out seat number 2
+McClerg won a seat with their 2 votes
+Winners of the R party: Berg, McClerg, 
+ 

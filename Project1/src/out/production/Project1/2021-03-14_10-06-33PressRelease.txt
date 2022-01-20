@@ -1,0 +1,21 @@
+Here lies the results of the OPL election
+The number of candidates in this election was 6
+The number of ballots in this election was 10
+The final party and individual candidate vote counts are as follows:
+
+ The D party: 5 total votes
+Pike, 5 votes
+ Foster, 0 votes
+
+ The R party: 5 total votes
+Deutsch, 0 votes
+ Borg, 5 votes
+ Jones, 0 votes
+
+ The I party: 0 total votes
+Smith, 0 votes
+
+And the candidates who won seats in this Open Party Listing election are:
+Winners of the D party: Pike, 
+Winners of the R party:  Borg,  Jones, 
+Winners of the I party: 
